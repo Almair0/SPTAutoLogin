@@ -1,0 +1,15 @@
+# 编译输出
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# 编辑器
+.idea/
+.vscode/
+
+# 系统文件
+Thumbs.db
+.DS_Store
